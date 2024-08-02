@@ -471,9 +471,10 @@ h3{
 }
 .contact-col input, .contact-col textarea{
     width: 100%;
+    color: black;
     padding: 15px;
     margin-bottom: 17px;
     outline: none;
-    border: 1px solid #ccc;
+    border: 1px solid #555;
     box-sizing: border-box;
 }
